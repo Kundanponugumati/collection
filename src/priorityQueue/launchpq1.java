@@ -10,6 +10,7 @@ public class launchpq1 {
         pq.add(20);
         pq.add(120);
         pq.add(100);
+//        pq.add("java"); --> gives error.
         System.out.println(pq);
     }
 }
